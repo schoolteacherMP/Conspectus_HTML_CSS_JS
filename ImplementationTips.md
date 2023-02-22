@@ -1,5 +1,4 @@
 ## Советы по выполнению задания 
- [Советы по выполнению portfolio](https://github.com/schoolteacherMP/lecture_13_1_portfolio/blob/main/ImplementationTipsPortfolio.md)  
 - Советы не являются частью задания. Следуйте советам только в той мере, в которой они могут вам помочь. 
 
 1. [Редактор кода](#редактор-кода)
