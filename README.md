@@ -3,4 +3,4 @@
 ## [Шпаргалка по Flexbox CSS](https://tpverstak.ru/flex-cheatsheet/)  
 
 ## [JavaScript для верстальщика ](https://github.com/schoolteacherMP/Conspectus_HTML_CSS_JS/blob/main/JS_for_frontend.md)  
-## [junior-frontend-developer-interview-questions ]()  
+## [junior-frontend-developer-interview-questions ](https://github.com/schoolteacherMP/Conspectus_HTML_CSS_JS/blob/main/interview_questions.md)  
