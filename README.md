@@ -1,3 +1,6 @@
+
+## [конспекты HTML,  CSS ](https://github.com/schoolteacherMP/Conspectus_HTML_CSS_JS/tree/main/HTML%2C%20CSS)  
+
 ## [Советы по выполнению Базовые ](https://github.com/schoolteacherMP/Conspectus_HTML_CSS_JS/blob/main/ImplementationTips.md)  
 ## [Советы по выполнению portfolio ](https://github.com/schoolteacherMP/lecture_13_1_portfolio/blob/main/ImplementationTipsPortfolio.md)  
 ## [Шпаргалка по Flexbox CSS](https://tpverstak.ru/flex-cheatsheet/)  
