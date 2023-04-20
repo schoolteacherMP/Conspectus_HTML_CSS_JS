@@ -10,6 +10,13 @@
 ## [junior-frontend-developer-interview-questions ](https://github.com/schoolteacherMP/Conspectus_HTML_CSS_JS/blob/main/interview_questions.md)  
 
 ## Figma  
-- [Старт в Figma для верстальщика](https://htmlacademy.ru/blog/soft/figma)
-- [Инструкция по работе в Figma для верстальщика](https://breezzly.ru/guides/start-v-figma-dlya-verstalshhika)
-- [Верстка сайта с нуля из Figma](https://www.youtube.com/playlist?list=PL5_s7xdj2Vsw-bCx5nOZJMFIiHwRgok--)
+- [Старт в Figma для верстальщика](https://htmlacademy.ru/blog/soft/figma)  
+- [Инструкция по работе в Figma для верстальщика](https://breezzly.ru/guides/start-v-figma-dlya-verstalshhika)  
+- [Верстка сайта с нуля из Figma](https://www.youtube.com/playlist?list=PL5_s7xdj2Vsw-bCx5nOZJMFIiHwRgok--)  
+
+## Рекомендации по качеству кода  
+- гайдлайн https://codeguide.academy/html-css.html#html  
+- руководство по качеству кода  
+  - [общие принципы](https://github.com/schoolteacherMP/lecture_X_Shelter/blob/main/generic-principles.md)
+  - [HTML и CSS рекомендации - начальный уровень](https://github.com/schoolteacherMP/lecture_X_Shelter/blob/main/html-and-css.md)
+  - [HTML и CSS рекомендации - продвинутый уровень](https://github.com/schoolteacherMP/lecture_X_Shelter/blob/main/html-and-css-extended.md)
