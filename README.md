@@ -9,6 +9,7 @@
 ## [ Вы не знаете JS (серия книг)](https://github.com/azat-io/you-dont-know-js-ru)  
 ## [junior-frontend-developer-interview-questions ](https://github.com/schoolteacherMP/Conspectus_HTML_CSS_JS/blob/main/interview_questions.md)  
 
+## Figma  
 - [Старт в Figma для верстальщика](https://htmlacademy.ru/blog/soft/figma)
 - [Инструкция по работе в Figma для верстальщика](https://breezzly.ru/guides/start-v-figma-dlya-verstalshhika)
 - [Верстка сайта с нуля из Figma](https://www.youtube.com/playlist?list=PL5_s7xdj2Vsw-bCx5nOZJMFIiHwRgok--)
