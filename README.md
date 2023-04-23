@@ -20,3 +20,4 @@
   - [общие принципы](https://github.com/schoolteacherMP/lecture_X_Shelter/blob/main/generic-principles.md)
   - [HTML и CSS рекомендации - начальный уровень](https://github.com/schoolteacherMP/lecture_X_Shelter/blob/main/html-and-css.md)
   - [HTML и CSS рекомендации - продвинутый уровень](https://github.com/schoolteacherMP/lecture_X_Shelter/blob/main/html-and-css-extended.md)
+
