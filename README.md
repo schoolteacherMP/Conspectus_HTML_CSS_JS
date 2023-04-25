@@ -1,6 +1,6 @@
 
 ## [конспекты HTML,  CSS ](https://github.com/schoolteacherMP/Conspectus_HTML_CSS_JS/tree/main/HTML%2C%20CSS)  
-## [Тесты HTML, CSS, JS ]()  
+## [Тесты HTML, CSS, JS ](https://github.com/schoolteacherMP/Conspectus_HTML_CSS_JS/tree/main/%D0%A2%D0%B5%D1%81%D1%82%D1%8B)  
 ## [Советы по выполнению Базовые ](https://github.com/schoolteacherMP/Conspectus_HTML_CSS_JS/blob/main/ImplementationTips.md)  
 ## [Советы по выполнению portfolio ](https://github.com/schoolteacherMP/lecture_13_1_portfolio/blob/main/ImplementationTipsPortfolio.md)  
 ## [Шпаргалка по Flexbox CSS](https://tpverstak.ru/flex-cheatsheet/)  
@@ -21,3 +21,4 @@
   - [HTML и CSS рекомендации - начальный уровень](https://github.com/schoolteacherMP/lecture_X_Shelter/blob/main/html-and-css.md)
   - [HTML и CSS рекомендации - продвинутый уровень](https://github.com/schoolteacherMP/lecture_X_Shelter/blob/main/html-and-css-extended.md)
 
+## [ Что  дальше? ](https://github.com/schoolteacherMP/Conspectus_HTML_CSS_JS/blob/main/what's_next.md)  
