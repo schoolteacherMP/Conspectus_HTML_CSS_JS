@@ -50,4 +50,10 @@
 ### Хранение данных в браузере
 1.	Куки, document.cookie
 2.	LocalStorage, sessionStorage
-3.	IndexedDB
+3.	IndexedDB  
+
+
+### Изучение фреймворка\библиотеки(к примеру):  
+1.  React
+2.  Angular
+3.  Vue
