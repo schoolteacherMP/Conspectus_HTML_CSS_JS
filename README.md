@@ -1,4 +1,3 @@
-
 ## [конспекты HTML,  CSS ](https://github.com/schoolteacherMP/Conspectus_HTML_CSS_JS/tree/main/HTML%2C%20CSS)  
 ## [Тесты HTML, CSS, JS ](https://github.com/schoolteacherMP/Conspectus_HTML_CSS_JS/tree/main/%D0%A2%D0%B5%D1%81%D1%82%D1%8B)  
 ## [Советы по выполнению Базовые ](https://github.com/schoolteacherMP/Conspectus_HTML_CSS_JS/blob/main/ImplementationTips.md)  
